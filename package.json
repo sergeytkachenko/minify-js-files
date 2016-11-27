@@ -16,7 +16,9 @@
     "gulp-clean": "^0.3.2",
     "gulp-filter-by": "^1.2.0",
     "gulp-jslint": "^1.0.5",
-    "gulp-jsvalidate": "^3.0.0",
-    "pump": "^1.0.1"
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "pump": "^1.0.1",
+    "syntax-error": "^1.1.6"
   }
 }
